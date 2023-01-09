@@ -5,4 +5,4 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Delal for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by Delal (https://github.com/delalhagos/lighthouse-web-notes) for the Lighthouse Labs Web Development Bootcamp.
